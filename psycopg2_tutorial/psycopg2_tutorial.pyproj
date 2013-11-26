@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>38e4a97c-561b-4561-bc12-0dad68bd9642</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>psycopg2_tutorial_5.py</StartupFile>
+    <StartupFile>ogr2ogr_1.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -31,6 +31,8 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="module1.py" />
+    <Compile Include="ogr2ogr_1.py" />
     <Compile Include="psycopg2_tutorial_1.py" />
     <Compile Include="psycopg2_tutorial_2.py" />
     <Compile Include="psycopg2_tutorial_3.py" />
